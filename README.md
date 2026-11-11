@@ -1,4 +1,4 @@
-# EstoquePro API — Projeto 2/9 do portfólio Java
+# EstoquePro API — Java
 
 Sistema de estoque em **Java 21 + Spring Boot 3.5.7**, com API REST, PostgreSQL, Flyway, validação, testes e CI. Voltado à demonstração de habilidades para vagas Java júnior/estágio.
 
